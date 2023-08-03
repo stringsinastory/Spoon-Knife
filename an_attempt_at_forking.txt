@@ -1,0 +1,5 @@
+I am trying to see how this works. I don't truly yet understand what this forking thing has 
+been invented for, necessarily. Maybe a fork is just a git clone command, with a few specific 
+restrictions attached to it, which easily allows for pull requests. Pull requests, simply seem 
+to be code modified for fixing/optimising a particular problem. This is my naive interpretation 
+of it, an interpretation which is born out of virtually zero experience, and oversight. 
